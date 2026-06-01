@@ -2,7 +2,7 @@
   "name": "Snowball - Intérêts Composés",
   "short_name": "Snowball",
   "description": "Simulez la croissance de votre épargne grâce aux intérêts composés.",
-  "start_url": "/",
+  "start_url": "/snowball/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#1a1c2e",

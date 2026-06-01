@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.damfintech.snowball",
+        "sha256_cert_fingerprints": ["2F:A3:23:7F:87:6B:D6:8B:85:05:09:FD:30:DF:FF:BF:70:D5:4E:8F:0A:47:01:19:9F:1B:CF:49:FA:87:A8:DC"]
+      }
+    }]
